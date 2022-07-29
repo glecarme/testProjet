@@ -2,3 +2,4 @@ README.md
 clown.txt
 fichier.txt
 liste.txt
+Je tente de créer un conflit
