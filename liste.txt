@@ -1,0 +1,4 @@
+read
+clown.txt
+fichier.txt
+liste.txt
