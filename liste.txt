@@ -2,4 +2,5 @@ README.md
 clown.txt
 fichier.txt
 liste.txt
-Je tente de créer un conflit
+Je modifie le même fichier et crée un commit dans une autre branch
+
