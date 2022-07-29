@@ -1,9 +1,4 @@
-<<<<<<< Updated upstream
-read
-=======
-
->>>>>>> modif
->>>>>>> Stashed changes
+README.md
 clown.txt
 fichier.txt
 liste.txt
